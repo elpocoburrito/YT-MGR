@@ -1,0 +1,1 @@
+"""YouTube Playlist Manager - CLI tool to manage YouTube playlists."""
