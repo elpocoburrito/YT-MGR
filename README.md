@@ -2,9 +2,7 @@
 
 A command-line tool (with an interactive TUI) for managing YouTube playlists
 using the **YouTube Data API v3**. Create, clone, deduplicate, and manage
-playlists — including very large ones (3000+ videos) — while staying friendly to
-your API quota.
-
+playlists.
 ---
 
 ## Table of contents
